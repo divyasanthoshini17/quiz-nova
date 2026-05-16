@@ -1,1 +1,1 @@
-"# Synapse Project" 
+# Quiz Nova 
